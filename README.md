@@ -23,7 +23,7 @@ Confusion Matrix: Visualized the performance of the sentiment classification mod
 ROC Curve: Plotted the ROC curve and calculated the Area Under the Curve (AUC) to assess the model's ability to distinguish between positive and negative sentiments.
 
 #  Technologies Used
-Python \n
+Python /n
 Libraries: pandas, matplotlib, seaborn, scikit-learn, wordcloud
 
 #  Key Visualizations
