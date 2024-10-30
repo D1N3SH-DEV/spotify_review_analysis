@@ -1,5 +1,10 @@
-Spotify Review Analysis Project
-Overview
+# Spotify Review Analysis Project
+
+This dataset consists of 51,000+ user reviews of the Spotify application from the Google Play Store (January - July 2022). The reviews have been scraped to analyze user sentiments and feedback towards the app. Each review has been labeled as either "Positive" or "Negative" based on its sentiment. The distribution of sentiments within the dataset is as follows:
+Positive Reviews: 56% of the total reviews. -Negative Reviews: 44% of the total reviews
+This dataset can be used to perform various analyses such as sentiment analysis, trend analysis over time, and feature extraction to gain insights into user experience and satisfaction with the Spotify app. It serves as a valuable resource for researchers and developers who want to explore user perceptions and identify areas of improvement for the application.
+
+# Overview
 This project aims to analyze Spotify reviews using Natural Language Processing (NLP) techniques to derive insights into user sentiment. The analysis focuses on visualizing review sentiment distribution, exploring common words in positive and negative reviews, and evaluating model performance through confusion matrices and ROC curves.
 
 Dataset
